@@ -1,0 +1,13 @@
+Hello World.! 
+
+This is a sample file
+
+<<<<<<< HEAD
+Added to Master
+
+This is master
+=======
+Added to GitNewBranch
+
+This is a GitNewBranch
+>>>>>>> GitNewBranch
