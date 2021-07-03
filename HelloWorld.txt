@@ -2,4 +2,6 @@ Hello World.!
 
 This is a sample file
 
-Added to GitNewBranch
+Added to Master
+
+This is master
